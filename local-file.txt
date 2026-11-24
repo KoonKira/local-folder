@@ -1,0 +1,1 @@
+This is a locl file inside local folder.
